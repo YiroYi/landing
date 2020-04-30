@@ -1,0 +1,16 @@
+.btn {
+  text-decoration: none;
+  padding: 16px 32px;
+  color: white;
+  }
+
+
+.btn-banner {
+  background-color: #d8345f;
+  border-radius: 50px;
+  font-weight: bold;
+}
+
+.btn-banner:hover {
+  opacity: 0.8;
+}

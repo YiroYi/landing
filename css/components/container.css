@@ -1,0 +1,44 @@
+.container {
+  width: 700px;
+  margin: 10px auto;
+  color: white;
+}
+
+.container h1 {
+  font-size: 50px;
+  margin-bottom: -23.283px;
+}
+
+.container p {
+  font-size: 25px;
+}
+
+.card-container {
+  width: 300px;
+  margin: 10px auto;
+  text-align: center;
+  box-shadow: 1px 5px 15px rgba(0,0,0,0.5);
+  border-radius: 10px;
+}
+
+.parent-card-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.discover-container h1 {
+  text-align: center;
+  font-size: 30px;
+}
+
+.footer-container {
+  padding: 80px 0;
+  background-color: #342ead;
+  text-align: center;
+}
+
+.footer-container p {
+  font-size: 15px;
+}
